@@ -1,5 +1,5 @@
 import axios from 'axios';
-const BASE_URL = 'https://bluntboys-Blog.com'
+const BASE_URL = 'https://bluntboys-api.onrender.com'
 // http://localhost:8000
 export default axios.create({
     baseURL: BASE_URL
